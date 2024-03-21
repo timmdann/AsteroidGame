@@ -20,7 +20,7 @@ If you want to contribute to the development of the game, you need to follow the
 6. Create a Pull Request.
 
 ## Authors
-Your Name - timmdann
+timmdann
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
