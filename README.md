@@ -12,12 +12,12 @@ Once the game is running, control the spaceship using the arrow keys on your key
 
 If you want to contribute to the development of the game, you need to follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature/new-feature).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push the branch to your fork (git push origin feature/new-feature).
-Create a Pull Request.
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/new-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push the branch to your fork (`git push origin feature/new-feature`).
+6. Create a Pull Request.
 
 ## Authors
 Your Name - timmdann
