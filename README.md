@@ -22,7 +22,3 @@ If you want to contribute to the development of the game, you need to follow the
 ## Authors
 timmdann
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Feel free to adjust and customize this template according to your project's specific details and requirements.
